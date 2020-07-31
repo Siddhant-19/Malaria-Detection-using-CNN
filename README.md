@@ -6,3 +6,4 @@ After more than a decade of steady advances in fighting malaria, progress has st
 
 Built a CNN model to classify thin-blood smear images into healthy and malaria infected cells.
 Dataset Source: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
+reference : https://doi.org/10.7717/peerj.6977
